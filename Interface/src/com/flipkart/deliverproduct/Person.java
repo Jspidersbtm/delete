@@ -14,5 +14,6 @@ public class Person {
 		System.out.println("He is purchasing the product");
 		p.purchase();
 		IDeliver.show();
+		System.out.println("Sample");
 	}
 }
